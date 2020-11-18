@@ -46,3 +46,18 @@ DENİZ UĞUR
 
 ## Output:
 
+### Array Searches
+
+![alt text](https://github.com/Zkryauntmz/screenshots/blob/main/1.png)
+
+### Primary Key Searchers
+
+![alt text](https://github.com/Zkryauntmz/screenshots/blob/main/2.png)
+
+### Secondary Key Searches
+
+![alt text](https://github.com/Zkryauntmz/screenshots/blob/main/3.png)
+
+![alt text](https://github.com/Zkryauntmz/screenshots/blob/main/4.png)
+
+![alt text](https://github.com/Zkryauntmz/screenshots/blob/main/5.png)
